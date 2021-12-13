@@ -1,0 +1,23 @@
+body{
+  border: 0;
+  background:url(slide3.webp);
+}
+
+
+.topcontent_resume {
+  color: black;
+  background-color: #B7FFBF;
+  border-radius: 8px;
+  font-size: 14px;
+  padding: 10px 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.topcontent_resume:hover {
+  color: #E50914;
+  background-color: white;
+  font-weight: 600;
+}
